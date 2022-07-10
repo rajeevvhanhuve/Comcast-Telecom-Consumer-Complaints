@@ -23,9 +23,9 @@ Analysis Task
 
 To perform these tasks, you can use any of the different Python libraries such as NumPy, SciPy, Pandas, scikit-learn, matplotlib, and BeautifulSoup.
 
-     - Import data into Python environment.
-     - Provide the trend chart for the number of complaints at monthly and daily granularity levels.
-     - Provide a table with the frequency of complaint types.
+   - Import data into Python environment.
+   - Provide the trend chart for the number of complaints at monthly and daily granularity levels.
+   - Provide a table with the frequency of complaint types.
      
 - Which complaint types are maximum i.e., around internet, network issues, or across any other domains.
      - Create a new categorical variable with value as Open and Closed. Open & Pending is to be categorized as Open and Closed & Solved is to be categorized as Closed.
