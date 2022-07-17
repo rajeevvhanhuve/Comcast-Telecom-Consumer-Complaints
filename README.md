@@ -1,4 +1,4 @@
-# Data Science with Python/Project 3
+# Data Science with Python: Project 3
 
 ### Comcast Telecom Consumer Complaints
 
