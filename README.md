@@ -1,6 +1,4 @@
-# Data Science with Python: Project 3
-
-### Comcast Telecom Consumer Complaints
+## Comcast Telecom Consumer Complaints
 
 DESCRIPTION
 
